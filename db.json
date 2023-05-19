@@ -1,0 +1,596 @@
+[
+ {
+   "Journal": "Journal of Energy Storage",
+   "Year": 2023,
+   "Title": "Development of improved reinforcement learning smart charging strategy for electric vehicle fleet",
+   "Authors": "Sultanuddin S.J., Vibin R., Rajesh Kumar A., Behera N.R., Pasha M.J., Baseer K.K."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2023,
+   "Title": "Accident detection using automotive smart black- box based",
+   "Authors": "Josephinshermila P., Sharon priya S., Malarvizhi K., hegde R., Gokul Pran S., Veerasamy B."
+ },
+ {
+   "Journal": "International Journal of Power Electronics and Drive Systems",
+   "Year": 2023,
+   "Title": "Reduced switched seven level multilevel inverter by modified carrier for high voltage industrial applications",
+   "Authors": "Sreelakshmi S., Sujatha M.S., Rahul J.R., Sutikno T."
+ },
+ {
+   "Journal": "Circuit World",
+   "Year": 2023,
+   "Title": "Design of bilayer graphene nanoribbon tunnel field effect transistor",
+   "Authors": "Vobulapuram R.K., Shaik J.B., Venkatramana P., Mekala D.P., Lingayath U."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2023,
+   "Title": "Energy efficient target tracking in wireless sensor network using PF-SVM (particle filter-support vector machine) technique",
+   "Authors": "Reddy Madhavi K., Mohd Nawi M.N., Bhaskar Reddy B., Baboji K., Hari Kishore K., Manikanthan S.V."
+ },
+ {
+   "Journal": "Physical Communication",
+   "Year": 2023,
+   "Title": "Scaled and nonlinear multi-objective model for Downlink and Uplink exposure in massive MIMO",
+   "Authors": "Kavitha T., Satish Kumar M., Srihari G., Umasankar L., Babu N.V."
+ },
+ {
+   "Journal": "Journal of Manufacturing Processes",
+   "Year": 2023,
+   "Title": "Investigations on microstructure, thermo-mechanical and tribological behavior of graphene oxide reinforced AA7075 surface composites developed via friction stir processing",
+   "Authors": "Nathan S.R., Suganeswaran K., Kumar S., Thangavel P., Gobinath V.K."
+ },
+ {
+   "Journal": "Journal of Circuits, Systems and Computers",
+   "Year": 2023,
+   "Title": "A Switched Capacitor-Based Multilevel Boost Inverter for Photovoltaic Applications",
+   "Authors": "Kumar B.H., Prabhu S., Janardhan K., Arun V., Vivekanandan S."
+ },
+ {
+   "Journal": "International Journal of Renewable Energy Research",
+   "Year": 2023,
+   "Title": "Design and Performance Analysis of Fuzzy Based Hybrid Controller for Grid Connected Solar-Battery Unified Power Quality Conditioner",
+   "Authors": "Srilakshmi K., Gaddameedhi S., Santhosh D.T., Yashaswini N., Valluri N., Reddy J.G.P., Kumar N.M.G., Naik D.A."
+ },
+ {
+   "Journal": "International Journal of Microwave and Optical Technology",
+   "Year": 2023,
+   "Title": "High Gain Multilayered Microstrip Patch Antenna for C Band Applications",
+   "Authors": "Hannan M., Shanmuganantham T., Shahid M., Sindhanaiselvi D., Kumar S.A., Srihari G."
+ },
+ {
+   "Journal": "Indonesian Journal of Electrical Engineering and Computer Science",
+   "Year": 2023,
+   "Title": "Proficient matrix codes for error detection and correctionin 8-port network on chip routers",
+   "Authors": "Koppala N., Ashok Kumar N., Satyam, Teja N.V."
+ },
+ {
+   "Journal": "Heat Transfer",
+   "Year": 2023,
+   "Title": "The flow of a Jeffrey fluid in a composite horizontal channel partially filled with a deformable porous material",
+   "Authors": "Kumaraswamy Naidu K., Sreenadh S."
+ },
+ {
+   "Journal": "International Journal of Lightweight Materials and Manufacture",
+   "Year": 2023,
+   "Title": "Assessment of the influence of FSSW parameters on shear strength of dissimilar materials joint (AA6061/AZ31B)",
+   "Authors": "Manickam S., Rajendran C., Ragu Nathan S., Sivamaran V., Balasubramanian V."
+ },
+ {
+   "Journal": "Applied Nanoscience (Switzerland)",
+   "Year": 2023,
+   "Title": "Power aware virtual machine placement in IaaS cloud using discrete firefly algorithm",
+   "Authors": "Balaji K., Sai Kiran P., Sunil Kumar M."
+ },
+ {
+   "Journal": "Research on Engineering Structures and Materials",
+   "Year": 2023,
+   "Title": "Optimization of hybrid fibre reinforced geopolymer concrete using hardened and durability properties",
+   "Authors": "Arunkumar K., Sureshkumar A., Ganesh A.C., Parthiban L., Premkumar V."
+ },
+ {
+   "Journal": "Research on Engineering Structures and Materials",
+   "Year": 2023,
+   "Title": "Investigation on the effect of ultra fine rice husk ash over slag based geopolymer concrete",
+   "Authors": "Chithambar Ganesh A., Vinod Kumar M., Mukilan K., Suresh Kumar A., Arun Kumar K."
+ },
+ {
+   "Journal": "Coatings",
+   "Year": 2023,
+   "Title": "Sensitive Fingerprint Detection Using Biocompatible Mesoporous Silica Nanoparticle Coating on Non-Porous Surfaces",
+   "Authors": "Bhati K., Bajpai Tripathy D., Kumaravel V., Sudhani H.P.K., Ali S., Choudhary R., Shukla S."
+ },
+ {
+   "Journal": "ECS Journal of Solid State Science and Technology",
+   "Year": 2023,
+   "Title": "Analysis of Crosstalk Effects for Ternary Logic MWCNT Bundled Through Silicon Vias",
+   "Authors": "Javid Basha S., Venkatramana P."
+ },
+ {
+   "Journal": "Computers",
+   "Year": 2023,
+   "Title": "Energy-Efficient Cluster Head Selection in Wireless Sensor Networks Using an Improved Grey Wolf Optimization Algorithm",
+   "Authors": "Rami Reddy M., Ravi Chandra M.L., Venkatramana P., Dilli R."
+ },
+ {
+   "Journal": "Materialwissenschaft und Werkstofftechnik",
+   "Year": 2023,
+   "Title": "Optimization of material removal rate and surface roughness during electric discharge machining of ultra-fine grained Al6082 using Taguchi technique [Optimierung der Materialabtragrate und der Oberfl�chenrauigkeit beim funkenerosiven Bearbeiten von ultrafeink�rnigem Al6082 mit Hilfe der Taguchi-Methode]",
+   "Authors": "Sarapure S."
+ },
+ {
+   "Journal": "Journal of the Indian Chemical Society",
+   "Year": 2023,
+   "Title": "Activation energy on three-dimensional Casson nanofluid motion via stretching sheet: Implementation of Buongiorno's model",
+   "Authors": "Wang F., Tarakaramu N., Govindaraju M.V., Sivakumar N., Bhagya Lakshmi K., Satya Narayana P.V., Sivajothi R."
+ },
+ {
+   "Journal": "Journal of the Indian Chemical Society",
+   "Year": 2023,
+   "Title": "Three dimensional nanofluid motion with convective boundary condition in presents of nonlinear thermal radiation via stretching sheet",
+   "Authors": "Wang F., Tarakaramu N., Sivakumar N., Narayana P.V.S., Harish Babu D., Ramalingam S."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2023,
+   "Title": "Power control management system model using wireless sensor network",
+   "Authors": "Damodaram D., Godi R.K., Rajkumar, Divakara Rao D.V., Glory K.B., Somu K."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2023,
+   "Title": "A deep learning based feed forward artificial neural network to predict the K-barriers for intrusion detection using a wireless sensor network",
+   "Authors": "Muruganandam S., Joshi R., Suresh P., Balakrishna N., Kishore K.H., Manikanthan S.V."
+ },
+ {
+   "Journal": "Physical Communication",
+   "Year": 2023,
+   "Title": "Balancing module in evolutionary optimization and Deep Reinforcement Learning for multi-path selection in Software Defined Networks",
+   "Authors": "Praveena H.D., Srilakshmi V., Rajini S., Kolluri R., Manohar M."
+ },
+ {
+   "Journal": "Optik",
+   "Year": 2023,
+   "Title": "Straddling type sandwiched absorber based solar cell structure",
+   "Authors": "Gomathi S., Sagaya Raj A.G., Mishra C.S., Kumar A."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2023,
+   "Title": "Secured supply chain management system for fisheries through IoT",
+   "Authors": "Kishore Kumar A., Aeri M., Grover A., Agarwal J., Kumar P., Raghu T."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2023,
+   "Title": "Faulty diagnostics model in e-commerce using AI",
+   "Authors": "Sahoo A.K., Gulavani S., Manwal M., Medidha R., Bhaskar T., M M."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2023,
+   "Title": "Improved block chain system for high secured IoT integrated supply chain",
+   "Authors": "N J., Rampur V., Gangodkar D., M A., C B., N A.K."
+ },
+ {
+   "Journal": "Wireless Personal Communications",
+   "Year": 2023,
+   "Title": "Microstrip Patch Antenna Design with Improved Shark Smell Optimization Model",
+   "Authors": "Chakradhar K.S., Rama Rao B., Nataraj D."
+ },
+ {
+   "Journal": "Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering",
+   "Year": 2023,
+   "Title": "Characterization of magneto-rheological fluid having elongated ferrous particles and its implementation in MR damper for three-wheeler passenger vehicle",
+   "Authors": "TharehalliMata G., Krishna H., Keshav M."
+ },
+ {
+   "Journal": "Applied Nanoscience (Switzerland)",
+   "Year": 2023,
+   "Title": "RETRACTED ARTICLE: Advanced lung cancer prediction based on blockchain material using extended CNN",
+   "Authors": "Srinivasulu A., Ramanjaneyulu K., Neelaveni R., Karanam S.R., Majji S., Jothilingam M., Patnala T.R."
+ },
+ {
+   "Journal": "El-Cezeri Journal of Science and Engineering",
+   "Year": 2023,
+   "Title": "Fault Analysis and Compensation in a Five Level Multilevel DC-AC Converter",
+   "Authors": "Parimalasundar E., Suresh K."
+ },
+ {
+   "Journal": "International Journal of Intelligent Unmanned Systems",
+   "Year": 2023,
+   "Title": "A 3-? grid connected wind system with a technique of DC link control using fewer sensors with fuzzy controller",
+   "Authors": "Naveen Kilari D., Sekhar A.H., Reddy N.S., Dharani N.P."
+ },
+ {
+   "Journal": "Theoretical Computer Science",
+   "Year": 2023,
+   "Title": "Malware visual resemblance analysis with minimum losses using Siamese neural networks",
+   "Authors": "Sree Lakshmi T., Govindarajan M., Sreenivasulu A."
+ },
+ {
+   "Journal": "Journal of Integrated Science and Technology",
+   "Year": 2023,
+   "Title": "New Digital Signature Scheme on Non-Commutative Rings using Double Conjugacy",
+   "Authors": "Jalaja V., Anjaneyulu G.S.G.N., Mohan L.N."
+ },
+ {
+   "Journal": "Materials Today: Proceedings",
+   "Year": 2023,
+   "Title": "Investigation on turning process performance during machining of 15-5PH stainless steel material with eco-friendly machining technique",
+   "Authors": "Sivaiah P., Sudheera M., Muralidhar Singh M., Yuvaraj C., Chengal Reddy V., Lakshmi Narasimhamu K., Dilip Kumar M."
+ },
+ {
+   "Journal": "Lecture Notes in Networks and Systems",
+   "Year": 2023,
+   "Title": "Breast Cancer Detection Using Deep Learning Model",
+   "Authors": "Thaseen A., Unnisa R., Sultana N., Madhavi K.R., NagaJyothi G., Kirubakaran S."
+ },
+ {
+   "Journal": "Lecture Notes in Networks and Systems",
+   "Year": 2023,
+   "Title": "Emotion Analysis Using Convolutional Neural Network",
+   "Authors": "Madhavi K.R., Vooradi S., Mounika P., Yedlla S., Tangudu N."
+ },
+ {
+   "Journal": "Lecture Notes in Networks and Systems",
+   "Year": 2023,
+   "Title": "High-Speed Low Area 2D FIR Filter Using Vedic Multiplier",
+   "Authors": "Nagajyothi G., Kumar G.P., Kumar B.S., Kumar B.P.D., Damodaram A.K."
+ },
+ {
+   "Journal": "Lecture Notes in Networks and Systems",
+   "Year": 2023,
+   "Title": "The Adaptive Strategies Improving Design in Internet of Things",
+   "Authors": "Kallam S., Veerender A., Shilpa K., Reddy K.R., Madhavi K.R., Narasimharao J."
+ },
+ {
+   "Journal": "IET Generation, Transmission and Distribution",
+   "Year": 2023,
+   "Title": "Machine learning based load prediction in smart-grid under different contract scenario",
+   "Authors": "Yadav P.K., Bhasker R., Stonier A.A., Peter G., Vijayakumar A., Ganji V."
+ },
+ {
+   "Journal": "Journal of Control and Decision",
+   "Year": 2023,
+   "Title": "Performance analysis on parallel operation of multimode droop controller doubly fed induction generator based wind energy conversion system with Other wind unit, solar units, loads and facts device",
+   "Authors": "Naresh K., Umapathi Reddy P., Sujatha P."
+ },
+ {
+   "Journal": "Proceedings - 5th International Conference on Smart Systems and Inventive Technology, ICSSIT 2023",
+   "Year": 2023,
+   "Title": "A Machine Learning based Malware Classification Framework",
+   "Authors": "Depuru S., Hari P., Suhaas P., Basha S.R., Girish R., Raju P.K."
+ },
+ {
+   "Journal": "Proceedings - 5th International Conference on Smart Systems and Inventive Technology, ICSSIT 2023",
+   "Year": 2023,
+   "Title": "Bluetooth based Garage Door Opening System",
+   "Authors": "Pappa C.K., Ashokkumar N., Nagarajan P., Thandapani K."
+ },
+ {
+   "Journal": "Journal for ReAttach Therapy and Developmental Diversities",
+   "Year": 2023,
+   "Title": "Analyzing the Factors Influencing in Blockchain Innovation in Health Care",
+   "Authors": "Anitha C., Joshi A., Thumar V., Kurian M.J., Viswanath P."
+ },
+ {
+   "Journal": "International Journal on Interactive Design and Manufacturing",
+   "Year": 2023,
+   "Title": "Experimentation with the EDM parameter through a full factorial technique and optimization using regression analysis with carbon nanotubes",
+   "Authors": "Darji Y., Patel D., Patel D., Ramesh R., Oza A.D., Bhole K.S., Shinde S.M., Kumar M."
+ },
+ {
+   "Journal": "Cognitive Science and Technology",
+   "Year": 2023,
+   "Title": "BLDC Motor and Its Speed Characteristics Analysis Based on Total Harmonic Distortion",
+   "Authors": "Reddy K.M.N.C.K., Kanagasabai N., Gireesh N."
+ },
+ {
+   "Journal": "Cognitive Science and Technology",
+   "Year": 2023,
+   "Title": "Meandered Shape CPW Feed-Based SIW Slot Antenna for Ku-Band Applications",
+   "Authors": "Vemu S.P., Mahaboob Basha S., Srihari G."
+ },
+ {
+   "Journal": "Journal of Scientific and Industrial Research",
+   "Year": 2023,
+   "Title": "Detection of COVID 19 using X-ray Images with Fine-tuned Transfer Learning",
+   "Authors": "Madhavi K.R., Suneetha K., Raju K.S., Kora P., Madhavi G., Kallam S."
+ },
+ {
+   "Journal": "Journal of Scientific and Industrial Research",
+   "Year": 2023,
+   "Title": "Edge Intelligence with Light Weight CNN Model for Surface Defect Detection in Manufacturing Industry",
+   "Authors": "Rani S.D., Burra L.R., Kalyani G., Rao N.K.B."
+ },
+ {
+   "Journal": "International Journal of Advanced Computer Science and Applications",
+   "Year": 2023,
+   "Title": "A Novel Hybrid Deep Learning Framework for Detection and Categorization of Brain Tumor from Magnetic Resonance Images",
+   "Authors": "Abd Algani Y.M., Nageswara Rao B., Kaur C., Ashreetha, Daya Sagar K.V., El-Ebiary Y.A.B."
+ },
+ {
+   "Journal": "International Journal of Intelligent Engineering and Systems",
+   "Year": 2023,
+   "Title": "Effective Twitter Sentiment Analysis Using Deep Belief Network with Enhanced Dragonfly Optimization Algorithm",
+   "Authors": "Bompem G., Chiluka N., Pandluri D."
+ },
+ {
+   "Journal": "Materials Today: Proceedings",
+   "Year": 2023,
+   "Title": "Optimization of performance and emission characteristics of a diesel engine in dual-fuel mode with LPG using adaptive-neuro fuzzy inference system model",
+   "Authors": "Tarigonda H., Anjaneyulu B., Raghurami Reddy R., Narasimhamu K.L."
+ },
+ {
+   "Journal": "Journal for ReAttach Therapy and Developmental Diversities",
+   "Year": 2023,
+   "Title": "Blockchain in Psychological Health: The Future of Medical Records",
+   "Authors": "Anitha C., Rani R., Srinivas V., Rangnekar S., Dalvi O.H."
+ },
+ {
+   "Journal": "International Transactions on Electrical Energy Systems",
+   "Year": 2023,
+   "Title": "An Enhanced Space Vector PWM Strategies for Three Phase Asymmetric Multilevel Inverter",
+   "Authors": "Kumar B.H., Janardhan K., Kumar R.S., Rahul J.R., Singh A.R., Naidoo R., Bansal R.C."
+ },
+ {
+   "Journal": "International Journal of Modern Physics B",
+   "Year": 2023,
+   "Title": "Enhanced heat and mass transfer characteristics of multiple slips on hydro-magnetic dissipative Casson fluid over a curved stretching surface",
+   "Authors": "Duraihem F.Z., Devi R.L.V.R., Prakash P., Sreelakshmi T.K., Saleem S., Durgaprasad P., Raju C.S.K., Raju S.S.K."
+ },
+ {
+   "Journal": "Analog Integrated Circuits and Signal Processing",
+   "Year": 2023,
+   "Title": "Design, optimization and experimental verification of UWB-MIMO antenna with WLAN and complete X-band notched characteristics, checked with characteristic mode analysis (CMA)",
+   "Authors": "Rao B.R., Chakradhar K.S., Nataraj D."
+ },
+ {
+   "Journal": "Journal of environmental and public health",
+   "Year": 2023,
+   "Title": "Fluidized Immobilized Carbon Catalytic Oxidation Reactor for Treating Domestic Wastewater",
+   "Authors": "Prasad Raju H., Chandrakasu M., Partheeban P., Anuradha B."
+ },
+ {
+   "Journal": "Computer Systems Science and Engineering",
+   "Year": 2023,
+   "Title": "Logistic Regression with Elliptical Curve Cryptography to Establish Secure IoT",
+   "Authors": "Arunkumar J.R., Velmurugan S., Chinnaiah B., Charulatha G., Prabhu M.R., Chakkaravarthy A.P."
+ },
+ {
+   "Journal": "Multimedia Tools and Applications",
+   "Year": 2023,
+   "Title": "A novel COVID diagnosis and feature extraction based on discrete wavelet model and classification using X-ray and CT images",
+   "Authors": "Tallapragada V.V.S., Manga N.A., Kumar G.V.P."
+ },
+ {
+   "Journal": "Electrical Engineering and Electromechanics",
+   "Year": 2023,
+   "Title": "Fault diagnosis in a five-level multilevel inverter using an artificial neural network approach",
+   "Authors": "Parimalasundar E., Senthil Kumar R., Chandrika V.S., Suresh K."
+ },
+ {
+   "Journal": "Heat Transfer",
+   "Year": 2023,
+   "Title": "The flow of non-Newtonian fluid in an inclined channel through variable permeability",
+   "Authors": "Bandi R., Babu Mallela S., Sreedharamalle S., Putta D."
+ },
+ {
+   "Journal": "Journal of Applied Science and Engineering (Taiwan)",
+   "Year": 2023,
+   "Title": "A Study On�LPWAN� Technologies for A Drone Assisted Smart Energy Meter System in 5g-smart City Iot-cloud Environment",
+   "Authors": "Damodaram A.K., Reddy L.V., Giri M., Manikandan N."
+ },
+ {
+   "Journal": "Journal of Electroanalytical Chemistry",
+   "Year": 2023,
+   "Title": "ZnFe2O4 nanoparticles decorated on rectangular ZnO nanosheets for enhanced photo-induced current generation via photoelectrochemical process",
+   "Authors": "Neelakanta Reddy I., Chidambara Kumar K.N., Kiran Kumar K., Shim J., Bai C."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "Automated Detection of Skin Lesions Using Back Propagation Neural Network",
+   "Authors": "Challa N.P., Mohan A., Rao N.K., Rao B.K., Shyam Mohan J.S., Balaji Bhanu B."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "The Adaptive Strategies Improving Digital Twin Using the Internet of Things",
+   "Authors": "Venkateswarulu N., Sunil Kumar Reddy P., Obulesu O., Suresh K."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "Fine-tuning for Transfer Learning of ResNet152 for Disease Identification in Tomato Leaves",
+   "Authors": "Burra L.R., Bonam J., Tumuluru P., Narendra Kumar Rao B."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "Bio-Inspired Firefly Algorithm for Polygonal Approximation on Various Shapes",
+   "Authors": "Venkateswara Reddy L., Davanam G., Pavan Kumar T., Sunil Kumar M., Narendar M."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "Text Recognition from Images Using Deep Learning Techniques",
+   "Authors": "Narendra Kumar Rao B., Pranitha K., Ranjana, Krishnaveni C.V., Chakkaravarthy M."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "Multi-layered Architecture to Monitor and Control the Energy Management in Smart Cities",
+   "Authors": "Damodaram A.K., Sreenivasa Chakravarthi S., Venkateswara Reddy L., Reddy Madhavi K."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "AI-Based Mental Fatigue Recognition and Responsive Recommendation System",
+   "Authors": "Kumar K.V.R., Devi B.R., Sudhakara M., Keerthi G., Madhavi K.R."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "Preface",
+   "Authors": "Narendra Kumar Rao B., Balasubramanian R., Wang S.-J., Nayak R."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "Applying Machine Learning to Enhance COVID-19 Prediction and Diagnosis of COVID-19 Treatment Using Convalescent Plasma",
+   "Authors": "Kongala L., Shilpa T., Reddy Madhavi K., Ghantasala P., Kallam S."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "Comparative Analysis on Heart Disease Prediction Using Convolutional Neural Network with Adapted Backpropagation",
+   "Authors": "Suneetha K., Challa K., Avanija J., Raparthi Y., Kallam S."
+ },
+ {
+   "Journal": "Smart Innovation, Systems and Technologies",
+   "Year": 2023,
+   "Title": "Fish Classification System Using Customized Deep Residual Neural Networks on Small-Scale Underwater Images",
+   "Authors": "Sudhakara M., Vijaya Shambhavi Y., Obulakonda Reddy R., Badrinath N., Reddy Madhavi K."
+ },
+ {
+   "Journal": "Lecture Notes in Networks and Systems",
+   "Year": 2023,
+   "Title": "IoT Crypto Security Communication System",
+   "Authors": "Kommineni K.K., Madhu G.C., Narayanamurthy R., Singh G."
+ },
+ {
+   "Journal": "Lecture Notes in Civil Engineering",
+   "Year": 2023,
+   "Title": "Development of Environmental-Friendly Geopolymer Concrete Using Incinerated Biomedical Waste Ash",
+   "Authors": "Suresh Kumar A., Muthukannan M., Arun Kumar K., Chithambar Ganesh A., Kanniga Devi R."
+ },
+ {
+   "Journal": "Lecture Notes in Mechanical Engineering",
+   "Year": 2023,
+   "Title": "Design Optimization of Nd:YAG Laser Welded Inconel 718 Alloy Joints by Taguchi Method",
+   "Authors": "Thejasree P., Krishnamachary P.C."
+ },
+ {
+   "Journal": "Lecture Notes in Mechanical Engineering",
+   "Year": 2023,
+   "Title": "The Influence of Machine Learning in Additive Manufacturing",
+   "Authors": "Raju R., Manikandan N., Palanisamy D., Thejasree P., Satheesh Kumar P., Mohammed Rizwan Ali P., Sivakumar P."
+ },
+ {
+   "Journal": "Materials Today: Proceedings",
+   "Year": 2023,
+   "Title": "Behaviour assessment of diesel engine operated using Butanol-Methyl Ester of Water Hyacinth blends",
+   "Authors": "Sachuthananthan B., Vinoth R., Lokeswara Reddy P., Naik G., Sandeep B."
+ },
+ {
+   "Journal": "Automatika",
+   "Year": 2023,
+   "Title": "Encapsulated 3� converter for power loss minimization in a grid-connected system",
+   "Authors": "Suresh K., Parimalasundar E., Jayakumar S., Ravikumar R."
+ },
+ {
+   "Journal": "International Journal of Thermal Sciences",
+   "Year": 2023,
+   "Title": "Heat transfer enhancement in oblique finned curved microchannel using hybrid nanofluid",
+   "Authors": "Vinoth R., Sachuthananthan B., Vadivel A., Balakrishnan S., Raj A.G.S."
+ },
+ {
+   "Journal": "Polycyclic Aromatic Compounds",
+   "Year": 2023,
+   "Title": "Synthesis of New 6-Oxo-1,6-Dihydropyrimidin-5-Carboxamides and Evaluation of Their anti-Bacterial and anti-Oxidant Activities",
+   "Authors": "Rambabu G., Kiran Y.B., Sarveswari S., Vijayakumar V."
+ },
+ {
+   "Journal": "SAE Technical Papers",
+   "Year": 2022,
+   "Title": "Fabrication of CuSbS2 Thin Film Solar Cells by Using Chemical Spray Pyrolysis",
+   "Authors": "Kumar Y.B.K., Doddipalli R.R., Nagamalleswari D., Tarigonda H."
+ },
+ {
+   "Journal": "SAE Technical Papers",
+   "Year": 2022,
+   "Title": "Effect of TBC, Turbocharger and EGR on the Performance of Diesel Engine Using Biodiesel",
+   "Authors": "Tarigonda H., Gangula V.R., Ratnaraju P., Doddipalli R.R., Krupakaran R.L."
+ },
+ {
+   "Journal": "SAE Technical Papers",
+   "Year": 2022,
+   "Title": "Optimization of the Effect of Low Heat Rejection Diesel Engine Using Biodiesel with Taguchi Method",
+   "Authors": "Gangula V.R., Krupakaran R.L., Tarigonda H., Kala K.L., Doddipalli R.R."
+ },
+ {
+   "Journal": "World Journal of Engineering",
+   "Year": 2022,
+   "Title": "Improving the structural performance of reinforced geopolymer concrete incorporated with hazardous heavy metal waste ash",
+   "Authors": "Arunachalam S.K., Muthiah M., Rangaswamy K.D., Kadarkarai A., Arunasankar C.G."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2022,
+   "Title": "An effectual IOT coupled EEG analysing model for continuous patient monitoring",
+   "Authors": "Khiani S., Mohamed Iqbal M., Dhakne A., Sai Thrinath B.V., Gayathri P.G., Thiagarajan R."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2022,
+   "Title": "Sensor data fusion for optimal robotic navigation using regression based on an IOT system",
+   "Authors": "Aroulanandam V.V., Satyam, Sherubha P., Lalitha K., Hymavathi J., Thiagarajan R."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2022,
+   "Title": "IOT enabled hybrid model with learning ability for E-health care systems",
+   "Authors": "Singh N., Sasirekha S.P., Dhakne A., Thrinath B.V.S., Ramya D., Thiagarajan R."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2022,
+   "Title": "Self secured model for cloud based IOT systems",
+   "Authors": "Priyatharsini G.S., Babu A.J., Kiran M.G., Sathish Kumar P.J., Nelson Kennedy Babu C., Ali A."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2022,
+   "Title": "Power management using AI-based IOT systems",
+   "Authors": "Shyam Sunder Reddy K., Manohara M., Shailaja K., Revathy P., Kumar T.M., Premalatha G."
+ },
+ {
+   "Journal": "International Journal of Geosynthetics and Ground Engineering",
+   "Year": 2022,
+   "Title": "Pullout Behaviour of Micropiles Stabilized with Fly Ash",
+   "Authors": "Orekanti E.R., Puram R."
+ },
+ {
+   "Journal": "International Journal of Intelligent Engineering and Systems",
+   "Year": 2022,
+   "Title": "Breast Cancer Classification Using Customized ResNet Based Convolution Neural Networks",
+   "Authors": "Pullaiah N.R.P., Venkatasekhar D., Venkatramana P., Sudhakar B."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2022,
+   "Title": "A novel security framework for healthcare data through IOT sensors",
+   "Authors": "Kasat K., Rani D.L., Khan B., J A., Kirubakaran M.K., Malathi P."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2022,
+   "Title": "A secured IoT-based model for human health through sensor data",
+   "Authors": "Satyanarayana T.V.V., Mohana Roopa Y., Maheswari M., Patil M.B., Tamrakar A.K., Prabhu Shankar B."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2022,
+   "Title": "IOT integrated smart grid management system for effective energy management",
+   "Authors": "Madhuri N.S., Shailaja K., Saha D., P R., Glory K.B., Sumithra M."
+ },
+ {
+   "Journal": "Measurement: Sensors",
+   "Year": 2022,
+   "Title": "Effective proactive routing protocol using smart nodes system",
+   "Authors": "Venkatanaresh M., Yadav R., Thiyagarajan D., Yasotha S., Ramkumar G., Varma P.S."
+ }
+]
